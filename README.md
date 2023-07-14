@@ -31,7 +31,7 @@ The cat memes and images used in the app are provided by the `catsData` array in
 
 ## Credits
 
-The Pumpkin's Purrfect Meme Picker app is created by [Your Name].
+The Pumpkin's Purrfect Meme Picker app is created by Hamna.
 
 Special thanks to the following resources:
 
